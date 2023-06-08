@@ -1,0 +1,11 @@
+CREATE TABLE info
+(
+id int NOT NULL AUTO_INCREMENT,
+name varchar(255),
+address varchar(255),
+age varchar(255),
+contact varchar(255),
+email varchar(255),
+username varchar(255),
+PRIMARY KEY (id)
+)
